@@ -1,4 +1,4 @@
-In this project we will predict the profit for a compaies based on location(state), marketing spend, administration spend, R&D spend
+In this project we will predict the profit for a compaies based on location(state), marketing spend, administration spend, R&D spend of 50 start up companies data we have taken from super data science
 
 based on all this data avaliable we make use of multiple linear regression model and train the model 
 
