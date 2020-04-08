@@ -1,0 +1,8 @@
+In this project we will predict the profit for a compaies based on location(state), marketing spend, administration spend, R&D spend
+
+based on all this data avaliable we make use of multiple linear regression model and train the model 
+
+after the traing with the necessary traun set of the dataset set we had we use test set to test out model.
+so based on predicted and test output we calculate the accuracy and error and the accuaracy is 96.76799636026987 %
+
+Its great prediction :-)
