@@ -6,3 +6,5 @@ after the traing with the necessary traun set of the dataset set we had we use t
 so based on predicted and test output we calculate the accuracy and error and the accuaracy is 96.76799636026987 %
 
 Its great prediction :-)
+ i also implimented using backward eliminatinn technique to consider only the statistically most important variable and prediction accuracy is about 96.67%
+ may be less than previos prediction but great prediction which takes less independent variable as input.
