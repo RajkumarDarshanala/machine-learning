@@ -1,0 +1,3 @@
+# This is python script for the forecating plot of the effectiveness of covid19 in terms of cases and deaths in differest countires of the world
+# logistic regression and gaussian curve fitting both properly fitted to the corresponding data whereas the polynamial regression failed to fit the data
+# It is based on the data available as per the data available on kaggle dated 13-may-2020
